@@ -8,9 +8,10 @@ TODO:
 
     - Wifi Netzwerke in der umgebung scannen
     - Ein Netzwerk nach bestimmten Kriterien 
-    aussuchen.
+    aussuchen. (Stärke, Verschlüsselung)
     - 2 Optionen für die Art der Attacke:
         - Deauth Attack mit Rouge Acces Point.
         - Deauth Attack mit Packet Sniff.
     - WPA Hash speichern und "irgendwie" an uns weitergeben.
     - 
+
