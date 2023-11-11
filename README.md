@@ -14,4 +14,4 @@ TODO:
         - Deauth Attack mit Packet Sniff.
     - WPA Hash speichern und "irgendwie" an uns weitergeben.
     - 
-
+https://dl.espressif.com/dl/package_esp32_index.json
