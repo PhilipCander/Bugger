@@ -15,3 +15,4 @@ TODO:
     - WPA Hash speichern und "irgendwie" an uns weitergeben.
     - 
 https://dl.espressif.com/dl/package_esp32_index.json
+https://www.hackingarticles.in/wireless-penetration-testing-pmkid-attack/
